@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"><b>Hi , I'm Biswaranjan Mohanty... </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Debasish Das... </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=800&height=100&lines=Undergrad+%40+TAT+BBSR+%F0%9F%8E%93;Skilled+in+ReactJS%2C+NextJS%2C+TypeScript+%F0%9F%92%AA;FullStack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%8E%AF;700+dsa+%20questions+%40+LeetCode+%26+GFG+%E2%9C%8D%F0%9F%8F%BC"></a>
@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on **Dev OverFlow**
+- 🔭 I’m currently working on **Fullstack Food Ordering App**
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **C++ , DSA , MERN**
+- 💬 Ask me about **Java  , MERN**
 
-- 📫 How to reach me **mbiswaranjan794@gmail.com**
+- 📫 How to reach me **ddas19682@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
@@ -69,9 +69,9 @@ Here are some ideas to get you started:
 # 👯 Connect with me: 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/biswaranjan-mohanty-4469ba201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Biswaranjan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/26259044/biswaranjan-mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Biswaranjan" height="30" width="40" /></a>
-<a href="https://leetcode.com/theBiswaranjan-79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Biswaranjan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ddas19682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Biswaranjan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26259044/bisaranjan-mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Biswaranjan" height="30" width="40" /></a>
+<a href="https://leetcode.com/theBiswarnjan-79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Biaranjan" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/night_coder794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Biswaranjan" height="30" width="40" /></a>
 </p>
 
