@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 <h1 align="center"><b>Hi , I'm Debasish Das... </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=800&height=100&lines=Undergrad+%40+TAT+BBSR+%F0%9F%8E%93;Skilled+in+ReactJS%2C+NextJS%2C+TypeScript+%F0%9F%92%AA;FullStack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%8E%AF;700+dsa+%20questions+%40+LeetCode+%26+GFG+%E2%9C%8D%F0%9F%8F%BC"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=800&height=100&lines=Undergrad+%40+TAT+BBSR+%F0%9F%8E%93;Skilled+in+ReactJS%2C+NodeJS%2C+JavaScript+%F0%9F%92%AA;FullStack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%8E%AF;"></a>
 </p>
     
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/3a379019-abec-4842-bb96-ad6a1b5b4f74">
 
 
 
